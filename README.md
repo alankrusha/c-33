@@ -1,2 +1,2 @@
-# c-33
-wreckedBall
+# collisionAlgorithm
+Algorithm to detect collision between two objects
